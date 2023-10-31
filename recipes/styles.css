@@ -1,0 +1,54 @@
+body {
+    color:#1E1B1D;
+    background-color:#DECBB7; 
+}
+
+.recipe {
+    padding: 50px;
+    margin: 20px;
+    border: solid;
+    border-color: #433633;
+    background-color: #b19c86;
+    color: #433633;
+    display: flexbox;
+}
+
+img {
+    border: solid;
+    border-width: 10px;
+    border-color: #5C5552; 
+}
+
+.img_box {
+    display: flex;
+    justify-content: center;
+
+}
+
+h1 {
+    text-align: center;
+    font-size: 3.5em;
+    font-family: 'Abril Fatface', serif;
+    letter-spacing: 3px;
+}
+
+.text {
+    font-family: 'Playpen Sans', cursive;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+a {
+    color: black;
+    font-family: 'Playpen Sans', cursive;
+    margin-left: 550px;
+}
+
+a:hover {
+    color: white;
+}
+
+#cookies {
+    height: auto;
+    width: 350px;
+}
